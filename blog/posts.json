@@ -1,0 +1,24 @@
+{
+  "posts":[
+    {
+      "title":"Sea of Opportunities - Club Crawl",
+      "id":"0003",
+      "thumbnail":"clubcrawl.png"
+    },
+    {
+      "title":"Day 1 or Day 2? - Mobile App",
+      "id":"0002",
+      "thumbnail":"app.png"
+    },
+    {
+      "title":"Going to the Roots - Club Communication",
+      "id":"0001",
+      "thumbnail":"clubs.png"
+    },
+    {
+      "title":"Hi There - Introduction to Website",
+      "id":"0000",
+      "thumbnail":"clogo.png"
+    }
+  ]
+}

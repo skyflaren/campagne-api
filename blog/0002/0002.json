@@ -1,0 +1,13 @@
+{
+  "title":"Day 1 or Day 2?",
+  "subtitle":"School Mobile App",
+  "date":"May 23, 2021",
+  "thumbnail":"app.png",
+  "id":"0002",
+  "body":[
+    {
+      "image":"",
+      "text":"Our third project would be a mobile app for Mackenzie students that would provide helpful information and improve the quality of life of the average student. On this app, you would be able to check your schedule and what class you have next, what the weather’s like at the school, and enable push notifications for late starts and holidays. If you’d like, you could also choose to opt-in for notifications when class starts at the regularly scheduled times. As well, there would be a version of the event calendar featured on the website mirrored to the app and any other important broadcasts (ex. start of quad classroom spreadsheets, special schedules, textbook return/pickups, etc)."
+    }
+  ]
+}

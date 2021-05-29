@@ -1,0 +1,25 @@
+{
+  "title":"Hi there!",
+  "subtitle":"An Introduction to our Website",
+  "date":"May 22, 2021",
+  "thumbnail":"clogo.png",
+  "id":"0000",
+  "body":[
+    {
+      "image": "",
+      "text":"You might be wondering, why have a different website when MAC Lyons Den already exists? To start, this website should be more friendly to use (snappier with less slow animations) and contain new features. First, we have worked on cleaning up the clubs section. In this website, each club has their own page with general info, join information (if open) and anything else they wish to present such as materials from Club Crawl, an embedded feed from Instagram, etc. As well, we will have club application statuses with important dates, and detailed information on how to join."
+    },
+    {
+      "image":"",
+      "text":"We will have a weekly blog-style report, posted here, our Discord server, and our Instagram account. It would include important information such as club statuses, notable winners from Mackenzie, and any large events hosted. In a way, it would be another place to keep the feeling of a school community alive if in-person announcements weren’t possible. We’ll also offer email notifications for those who wish to subscribe to the blog."
+    },
+    {
+      "image":"",
+      "text":"Another notable feature on our website would be a “Week in Photos” section attached to the blog. Students and clubs would be able to submit photos of events or everyday life, and it would be combined with other pictures taken throughout the week. This would add more dimension to the weekly blog posts, and allow for more student interactivity with the website in general. During a year, these photos could help bring students together and provide an opportunity to feel more connected."
+    },
+    {
+      "image":"",
+      "text":"While the website is still a work in progress (plan to clean up the code and switch to Flask or Django over the summer), we’re open to feedback, so feel free to message us for any ideas you may have!"
+    }
+  ]
+}
